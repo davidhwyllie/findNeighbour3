@@ -1,3 +1,11 @@
+# A newer product is available
+Development is now focused a successor software,  findneighbour4.
+This offers 
+* backwards compatibility with findneighbour3  
+* additional functionality
+* faster operations and reduced RAM usage  
+We therefore recommend that you use [findneighbour4](https://github.com/davidhwyllie/findNeighbour4) for new projects.
+
 # Abstract
 findNeighbour3 is a server application for investigating bacterial relatedness using reference-mapped data.
 Accessible via RESTful webservices, findNeighbour3 maintains a sparse distance matrix in a database
